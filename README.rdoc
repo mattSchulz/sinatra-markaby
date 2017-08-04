@@ -20,7 +20,7 @@ using markaby templates.
   __END__
 
   @@ template
-  mab.html do
+  map.html do
     head { title "Hello world" }
     body do
       p "Hello world!!!!!"
